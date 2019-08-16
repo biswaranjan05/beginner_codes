@@ -1,5 +1,5 @@
 var John = {
-     fullName: 'John naag',
+      fullName: 'John naag',
      bills: [200, 300, 112, 345, 43],
      calcTips: function(){
          this.tips = [];
